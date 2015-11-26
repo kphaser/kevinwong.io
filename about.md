@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Skills
 
-### More Information
+Python
+R
+SQL
+Excel
+Statistics
+Project Management
+Financial Analysis
+Hadoop
 
-A place to include any other types of information that you'd like to include about yourself.
+### Hobbies
+
+Basketball
+Rock Climbing
+Traveling
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kevinwong@u.northwestern.edu](mailto:kevinwong@u.northwestern.edu)
