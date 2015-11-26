@@ -13,7 +13,15 @@ permalink: /about/
 * Statistics
 * Project Management
 * Financial Analysis
-* Hadoop
+* Hadoop (Cloudera Certified Developer for Apache Hadoop)
+
+### Courses
+
+* PREDICT 400 - Math for Modelers
+* PREDICT 401 - Intro to Statistical Analysis
+* PREDICT 402 - Intro to Predictive Analytics
+* PREDICT 420 - Database Systems and Preparation
+* PREDICT 475 - Project Management
 
 ### Hobbies
 
