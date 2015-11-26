@@ -6,20 +6,20 @@ permalink: /about/
 
 ### Skills
 
-Python
-R
-SQL
-Excel
-Statistics
-Project Management
-Financial Analysis
-Hadoop
+* Python
+* R
+* SQL
+* Excel
+* Statistics
+* Project Management
+* Financial Analysis
+* Hadoop
 
 ### Hobbies
 
-Basketball
-Rock Climbing
-Traveling
+* Basketball
+* Rock Climbing
+* Traveling
 
 ### Contact me
 
