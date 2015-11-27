@@ -14,6 +14,7 @@ permalink: /about/
 * Project Management
 * Financial Analysis
 * Hadoop (Cloudera Certified Developer for Apache Hadoop)
+* NoSQL, specifically MongoDB
 
 ### Courses
 
