@@ -26,7 +26,8 @@ permalink: /about/
 ### Hobbies
 
 * Basketball
-* Rock Climbing
+* Rock climbing
+* Board games
 * Traveling
 
 ### Contact me
