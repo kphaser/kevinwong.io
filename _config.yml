@@ -6,10 +6,17 @@
 name: Kevin Wong
 
 # Short bio or description (displayed in the header)
+<<<<<<< HEAD
 description: Northwestern University MSc. in Predictive Analytics 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/7607708?v=3&s=460
+=======
+description: Northwestern University MSc in Predictive Analytics 
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+>>>>>>> 08ef651d9b3bf2b2d664fb0fb90d76fd1c182828
 
 #
 # Flags below are optional

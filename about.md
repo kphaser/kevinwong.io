@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<<<<<<< HEAD
 ### Skills
 
 * Python
@@ -32,3 +33,14 @@ permalink: /about/
 ### Contact me
 
 [kevinwong@u.northwestern.edu](mailto:kevinwong@u.northwestern.edu)
+=======
+Some information about you!
+
+### More Information
+
+A place to include any other types of information that you'd like to include about yourself.
+
+### Contact me
+
+[email@domain.com](mailto:email@domain.com)
+>>>>>>> 08ef651d9b3bf2b2d664fb0fb90d76fd1c182828
