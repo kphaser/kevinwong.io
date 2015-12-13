@@ -8,7 +8,9 @@ tags:
 - database
 ---
 
-I can continue to say that I am still very much enjoying my education in the MSPA at Northwestern University. My second quarter was filled with a tremendous amount of hands on experience. The two courses I took were PREDICT 401 Intro to Statistical Analysis with Dr. Roy Sanford and PREDICT 420 Database Systems and Database Preparation with Dr. Atef Bader. Both are great professors and are invested in teaching you everything you need to know to progress to more advanced courses. I highlight some of the important lessons learned from each course below.
+I can continue to say that I am still very much enjoying my education in the MSPA at Northwestern University. My second quarter was filled with a tremendous amount of hands on experience. The two courses I took were PREDICT 401 Intro to Statistical Analysis with Dr. Roy Sanford and PREDICT 420 Database Systems and Database Preparation with Dr. Atef Bader. 
+
+Both are great professors and are invested in teaching you everything you need to know to progress to more advanced courses. I highlight some of the important lessons learned from each course below.
 
 <h2>PREDICT 401</h2>
 
