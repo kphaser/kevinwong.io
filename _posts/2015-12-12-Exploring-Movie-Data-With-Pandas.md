@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second Quarter (Fall 2015) Review of MSPA
+title: Movie data with Pandas
 tags:
 - python
 - pandas

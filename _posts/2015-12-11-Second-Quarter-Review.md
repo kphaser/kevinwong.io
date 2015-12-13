@@ -3,10 +3,7 @@ layout: post
 title: Second Quarter (Fall 2015) Review of MSPA
 tags:
 - northwestern university
-- MSPA
-- predictive analytics
-- python
-- R
+- mspa
 - statistics
 - database
 ---
