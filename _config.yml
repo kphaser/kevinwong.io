@@ -2,3 +2,4 @@ permalink: '/blog/:year/:title/'
 base: http://kevinwong.io
 name: A blog about data science, tech, and cool stuff
 author: Kevin Wong
+url: http://kevinwong.io

@@ -240,7 +240,7 @@ h4 + p {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	background-image: url(../img/bg.jpg); /* main bg image */
+	background-image: url('/img/bg.jpg'); /* main bg image */
 	top: 0;
 	left: 0;
 	width: 100%;
