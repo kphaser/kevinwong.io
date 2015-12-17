@@ -240,7 +240,7 @@ h4 + p {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	background-image: https://photos.google.com/photo/AF1QipMNHfjgW3zLX3QmoHygX_oR5LMRogptLd8mLoB8; /* main bg image */
+	background-image: <img src="C:\wamp\www\site\img\mypicture.jpg"/>; /* main bg image */
 	top: 0;
 	left: 0;
 	width: 100%;
