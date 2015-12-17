@@ -7,6 +7,7 @@ tags:
 - movies
 ---
 
+So I've really been loving pandas. It's one of my favorite things in Python. I thought it would be fun to go through some of the basic capabilities of pandas by looking at a movie dataset. I've posted the following from IPython Notebook.
 
 <style type="text/css">
     /*!
