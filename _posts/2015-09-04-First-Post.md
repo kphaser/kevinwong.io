@@ -4,6 +4,7 @@ title: First Post
 tags:
 - puppy
 - jekyll
+- github
 ---
 
 So just started my own webpage using Jekyll. I heard lots of cool things about static web pages and it's nice because jekyll sites get hosted for free on github. This is my first post. I'm just testing to see if it works and how it'll look. Also, cute picture of my puppy! Because why not?
