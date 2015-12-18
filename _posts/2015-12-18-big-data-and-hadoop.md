@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hadoop
+title: Big Data and Hadoop
 tags:
 - hadoop
 - mapreduce
@@ -51,15 +51,24 @@ The triggers to the big data phenomenon from sensors, internet, cloud technologi
 
 
  
-### References ###
+<h3>References</h3>
 
 ExplainingComputers. (2012, June 16). Explaining Big Data [Video file]. Retrieved from https://www.youtube.com/watch?v=7D1CQ_LOizA
+
 IBM Analytics. (2012, April 3). What is IBM Big Data? Part 1 [Video file]. Retrieved from https://www.youtube.com/watch?v=B27SpLOOhWw
+
 IBM Analytics. (2012, April 10). What is IBM Big Data? Part 2 [Video file]. Retrieved from https://www.youtube.com/watch?v=W2Vnke8ryco
+
 EMC. (2012, February 27). Big Ideas: How Big is Big Data? [Video file]. Retrieved from https://www.youtube.com/watch?v=eEpxN0htRKI
+
 EMC. (2012, July 17). Big Ideas: Simplifying Cluster Architectures [Video file]. Retrieved from https://www.youtube.com/watch?v=4M3cROio9vU
+
 EMC. (2012, April 6). Big Ideas: Demystifying Hadoop [Video file]. Retrieved from https://www.youtube.com/watch?v=XtLXPLb6EXs
+
 Google Israel. (2008, November 26). MapReduce [Video file]. Retrieved from https://www.youtube.com/watch?v=zVSSsJ_ua4Q
+
 MapRAcademy. (2013, March 1). Intro to MapReduce [Video file]. Retrieved from https://www.youtube.com/watch?v=HFplUBeBhcM
+
 Scolbe, Robert. (2010, March 4). What is Hadoop? Other big data terms like MapReduce? Cloudera’s CEO talks us through big data trends [Video file]. Retrieved from https://www.youtube.com/watch?v=S9xnYBVqLws
+
 TiE SiliconValley. (2015, June 23). Big Data’s Big Impact The New Economy – TiEcon 2015 [Video file]. Retrieved from https://www.youtube.com/watch?v=n4I_NTA9lkE&feature=youtu.be
