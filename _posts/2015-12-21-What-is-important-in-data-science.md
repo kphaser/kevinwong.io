@@ -18,5 +18,7 @@ Some takeaways here:
 * It's ok if you don't know everything.
 
 Sources:
+
 Sean McClure's post: http://www.datasciencecentral.com/m/blogpost?id=6448529:BlogPost:223808
+
 John Foreman's Interview: https://www.youtube.com/watch?v=nDgGg-iptYk
