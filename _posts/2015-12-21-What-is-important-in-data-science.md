@@ -12,6 +12,7 @@ The focus should be on learning how to solve problems. There is a very good post
 I also found a great interview with John Foreman, Chief Data Scientist at Mailchimp, who talks about what's important to learn in data science. He mentions that it can be daunting to become a data scientist because everyone feels they need to be an expert in everything based on articles online. However, his recommendation is to learn general data science skills so you can recall them when a relevant problem comes up.
 
 Some takeaways here:
+
 * Don't focus on learning all the tools (R, Python, Scala, etc.), but focus on learning how to solve problems and communicate clearly. The tools will come handy, but won't define your greatness.
 * Don't get overwhelmed by the laundry list of skills on the internet. Learn when each is useful.
 * It's ok if you don't know everything.
